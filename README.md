@@ -1,4 +1,4 @@
-[![Math Utility Project (CI included) | © 2025 byvan](https://github.com/KhoaPhan204/mathutil/actions/workflows/hoale-runner.yml/badge.svg)](https://github.com/KhoaPhan204/mathutil/actions/workflows/hoale-runner.yml)
+[![Math Utility Project (CI included) | © 2025 byvan](https://github.com/KhoaPhan204/mathutil/actions/workflows/vankhoa-runner.yml/badge.svg)](https://github.com/KhoaPhan204/mathutil/actions/workflows/vankhoa-runner.yml)
 
 
 # Welcome to Math Utility Repository
@@ -19,5 +19,5 @@ Actions
 ### Maven builder to build .jar file
 ![Maven Builder to build](https://github.com/leanhhoa30012004/mathutil-se181702/blob/main/screenshots/Maven%20Buider.png)
 
-### Connect me via: leanhhoa30012004@gmail.com
-#### &#169; 2025 hoa.le
+### Connect me via: khoapvan204@gmail.com
+#### &#169; 2025 byvan
