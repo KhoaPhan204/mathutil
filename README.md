@@ -1,5 +1,4 @@
-[![Math Utility Project (CI included) | © 2025 byvan](https://github.com/KhoaPhan204/mathutil/actions/workflows/vankhoa-runner.yml/badge.svg)](https://github.com/KhoaPhan204/mathutil/actions/workflows/vankhoa-runner.yml)
-
+[![Math Utility Project (CI included) | © 2025 byvan](https://github.com/KhoaPhan204/mathutil/actions/workflows/vankhoa-runner.yml/badge.svg?branch=main)](https://github.com/KhoaPhan204/mathutil/actions/workflows/vankhoa-runner.yml)
 
 # Welcome to Math Utility Repository
 
