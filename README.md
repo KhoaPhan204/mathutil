@@ -1,3 +1,6 @@
+[![Math Utility Project (CI included) | © 2025 byvan](https://github.com/KhoaPhan204/mathutil/actions/workflows/hoale-runner.yml/badge.svg)](https://github.com/KhoaPhan204/mathutil/actions/workflows/hoale-runner.yml)
+
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff:
